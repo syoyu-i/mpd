@@ -1,2 +1,4 @@
 Multi-TPC/
 Conversation_Demo/
+__pycache__/
+.ipynb_checkpoints/
